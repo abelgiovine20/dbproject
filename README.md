@@ -2,7 +2,7 @@
 
 To configure the backend, use docker to build the containers needed. 
 Use ngrok to link the datasource to appsmith.
-I ran ./ngrok http 9000 and put the link into the appsmith datasource named Flask API
+I ran ./ngrok http 9000 and put the link into the appsmith datasource named Flask API.
 
 
 
